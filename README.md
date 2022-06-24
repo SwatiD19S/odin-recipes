@@ -1,1 +1,1 @@
-# odin-recipes
+A website where you get the right help that you need to get yourself started in the field of Indian Cuisine. Just click on the recipe that brings water to your mouth, follow along and enjoy the delicacy!
